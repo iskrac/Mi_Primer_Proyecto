@@ -1,17 +1,20 @@
 # happy_bee
+# 📱 Mi Primer Proyecto App
 
-A new Flutter project.
+Una aplicación móvil multiplataforma desarrollada con **Flutter** y **Dart**.
 
-## Getting Started
+## 🚀 Características
+* Interfaz de usuario intuitiva y moderna.
+* Soporte para Android, iOS y Web.
+* Manejo eficiente del estado y arquitectura limpia.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Dart
+* **Framework:** Flutter
+* **Plataformas:** Android / iOS / Web / Desktop
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Cómo ejecutar el proyecto localmente
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/iskrac/Mi_Primer_Proyecto.git](https://github.com/iskrac/Mi_Primer_Proyecto.git)
